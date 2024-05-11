@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ColorPicker
+
+  Created by Masatoshi Nishikata on 5/01/20.
+  Copyright © 2020 Catalystwo Limited. All rights reserved.
+*/
+
+"Drag and drop swatches here" = "  スウォッチを長押ししてここにドロップ  ";
+"Set" = " 登録 ";
+"Drag" = "ドラッグ";
